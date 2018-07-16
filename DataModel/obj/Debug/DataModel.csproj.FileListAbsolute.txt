@@ -87,3 +87,20 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\DataModel\bi
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\DataModel\obj\Debug\DataModel.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\DataModel\obj\Debug\DataModel.pdb
+F:\log\WebApi\WebApi\DataModel\bin\Debug\DataModel.dll.config
+F:\log\WebApi\WebApi\DataModel\bin\Debug\DataModel.dll
+F:\log\WebApi\WebApi\DataModel\bin\Debug\DataModel.pdb
+F:\log\WebApi\WebApi\DataModel\bin\Debug\EntityFramework.dll
+F:\log\WebApi\WebApi\DataModel\bin\Debug\Resolver.dll
+F:\log\WebApi\WebApi\DataModel\bin\Debug\Microsoft.Practices.Unity.dll
+F:\log\WebApi\WebApi\DataModel\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\log\WebApi\WebApi\DataModel\bin\Debug\Resolver.pdb
+F:\log\WebApi\WebApi\DataModel\bin\Debug\EntityFramework.xml
+F:\log\WebApi\WebApi\DataModel\bin\Debug\Microsoft.Practices.Unity.xml
+F:\log\WebApi\WebApi\DataModel\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\log\WebApi\WebApi\DataModel\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\log\WebApi\WebApi\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+F:\log\WebApi\WebApi\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+F:\log\WebApi\WebApi\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+F:\log\WebApi\WebApi\DataModel\obj\Debug\DataModel.dll
+F:\log\WebApi\WebApi\DataModel\obj\Debug\DataModel.pdb

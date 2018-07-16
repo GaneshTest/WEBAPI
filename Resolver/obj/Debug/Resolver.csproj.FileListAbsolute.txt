@@ -61,3 +61,18 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\obj\Debug\Resolver.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\Resolver\obj\Debug\Resolver.pdb
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Resolver.dll
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Resolver.pdb
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.dll
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Unity.Mvc3.dll
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.xml
+F:\log\WebApi\WebApi\Resolver\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\log\WebApi\WebApi\Resolver\obj\Debug\Resolver.csprojAssemblyReference.cache
+F:\log\WebApi\WebApi\Resolver\obj\Debug\Resolver.csproj.CoreCompileInputs.cache
+F:\log\WebApi\WebApi\Resolver\obj\Debug\Resolver.csproj.CopyComplete
+F:\log\WebApi\WebApi\Resolver\obj\Debug\Resolver.dll
+F:\log\WebApi\WebApi\Resolver\obj\Debug\Resolver.pdb

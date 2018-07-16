@@ -145,3 +145,29 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessServ
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\BusinessServices.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\BusinessServices.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\BusinessEntities.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\DataModel.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\Resolver.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\EntityFramework.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\BusinessEntities.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\DataModel.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\DataModel.dll.config
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\Resolver.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.xml
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\AutoMapper.Net4.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\EntityFramework.xml
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.Unity.xml
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\log\WebApi\WebApi\BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\log\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.csprojAssemblyReference.cache
+F:\log\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.csproj.CoreCompileInputs.cache
+F:\log\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.csproj.CopyComplete
+F:\log\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.dll
+F:\log\WebApi\WebApi\BusinessServices\obj\Debug\BusinessServices.pdb

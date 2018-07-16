@@ -27,3 +27,9 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEnti
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+F:\log\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+F:\log\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+F:\log\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+F:\log\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+F:\log\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+F:\log\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
